@@ -1,0 +1,11 @@
+services:
+   storybook:
+    ports:
+      - "6006:6006"
+    build: .
+    restart: always
+
+     
+     
+
+   
